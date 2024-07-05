@@ -15,7 +15,7 @@
 
 - **예제0. SQL 설치 및 사전 학습**:  📄[노트](https://www.notion.so/1-column-select-1f52c038dac942b4bc29997875b3ddb6?pvs=4)
 
-- **예제1. 테이블에서 특정 열(column) 선택하기**:  📄[노트](https://www.notion.so/1-column-select-1f52c038dac942b4bc29997875b3ddb6?pvs=4)
+- **예제1. 테이블에서 특정 열(column) 선택하기**:  📄[노트](https://bold-bergamot-e04.notion.site/1-column-select-1f52c038dac942b4bc29997875b3ddb6?pvs=73)
   &nbsp;
   
 - **예제2. 테이블에서 모든 열(column) 출력하기**: 📄 [노트](https://www.notion.so/2-column-select-fadababa883c43f9968db8059dced82b?pvs=4)
