@@ -36,13 +36,13 @@
 
 - **예제10. 비교 연산자 배우기 1 (>, <, >=, <=,  =, !=, <>, ^= )**: 📄 [노트](https://bold-bergamot-e04.notion.site/10-1-where-78efb8a612f6496389e18190c4718e58?pvs=4)
 
-- **예제11. 컬럼 별칭을 사용하여 출력 되는 컬럼명 변경하기**: 📄 [노트](https://www.notion.so/3-as-512a42c7ca3f4f54ae218ed42ee37c11?pvs=4)
+- **예제11. 비교 연산자 배우기 2 (between … and )**: 📄 [노트](https://bold-bergamot-e04.notion.site/11-2-between-and-not-between-and-58f26430c43c47dc804768a36ab1f4d3?pvs=4)
 
-- **예제12. 컬럼 별칭을 사용하여 출력 되는 컬럼명 변경하기**: 📄 [노트](https://www.notion.so/3-as-512a42c7ca3f4f54ae218ed42ee37c11?pvs=4)
+- **예제12. 비교 연산자 배우기 3 (like)**: 📄 [노트](https://bold-bergamot-e04.notion.site/12-3-like-_-k-escape-k-2c7bff5f8f4d4a8fa888f4c84d77c278?pvs=4)
 
-- **예제13. 컬럼 별칭을 사용하여 출력 되는 컬럼명 변경하기**: 📄 [노트](https://www.notion.so/3-as-512a42c7ca3f4f54ae218ed42ee37c11?pvs=4)
+- **예제13. 비교 연산자 배우기 4 IS NULL ←→ IS NOT NULL**: 📄 [노트]([https://www.notion.so/3-as-512a42c7ca3f4f54ae218ed42ee37c11?pvs=4](https://bold-bergamot-e04.notion.site/13-4-IS-NULL-IS-NOT-NULL-null-34ef113a679e497f8d61ed8a9aa02650?pvs=4))
 
-- **예제14. 컬럼 별칭을 사용하여 출력 되는 컬럼명 변경하기**: 📄 [노트](https://www.notion.so/3-as-512a42c7ca3f4f54ae218ed42ee37c11?pvs=4)
+- **예제14. 비교 연산자 배우기 5 IN / NOT IN**: 📄 [노트](https://bold-bergamot-e04.notion.site/14-5-IN-NOT-IN-7870b097ba0f4d169877b329641cb431?pvs=4)
 
 - **예제15. 컬럼 별칭을 사용하여 출력 되는 컬럼명 변경하기**: 📄 [노트](https://www.notion.so/3-as-512a42c7ca3f4f54ae218ed42ee37c11?pvs=4)
 
