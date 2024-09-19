@@ -50,9 +50,9 @@
 
 - **예제17. 특정 철자 추출하기 (SUBSTR)**: 📄 [노트](https://bold-bergamot-e04.notion.site/17-SUBSTR-substr-c1a57650fac04560b22863cebcde4efa?pvs=4)
 
-- **예제18. 컬럼 별칭을 사용하여 출력 되는 컬럼명 변경하기**: 📄 [노트](https://www.notion.so/3-as-512a42c7ca3f4f54ae218ed42ee37c11?pvs=4)
+- **예제18. 문자열의 길이를 출력하기 (LENGTH)**: 📄 [노트](https://bold-bergamot-e04.notion.site/18-LENGTH-length-nulls-last-fetch-36c32040490d403ab38454bf0a04a69c?pvs=4)
 
-- **예제19. 컬럼 별칭을 사용하여 출력 되는 컬럼명 변경하기**: 📄 [노트](https://www.notion.so/3-as-512a42c7ca3f4f54ae218ed42ee37c11?pvs=4)
+- **예제19. 문자에서 특정 철자의 위치 출력하기 (INSTR)**: 📄 [노트](https://bold-bergamot-e04.notion.site/19-INSTR-instr-704438e9e36148cfaae2d81fd7567a16?pvs=4)
 
 - **예제20. 컬럼 별칭을 사용하여 출력 되는 컬럼명 변경하기**: 📄 [노트](https://www.notion.so/3-as-512a42c7ca3f4f54ae218ed42ee37c11?pvs=4)
 
