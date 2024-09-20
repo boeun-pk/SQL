@@ -54,7 +54,7 @@
 
 - **예제19. 문자에서 특정 철자의 위치 출력하기 (INSTR)**: 📄 [노트](https://bold-bergamot-e04.notion.site/19-INSTR-instr-704438e9e36148cfaae2d81fd7567a16?pvs=4)
 
-- **예제20. 컬럼 별칭을 사용하여 출력 되는 컬럼명 변경하기**: 📄 [노트](https://www.notion.so/3-as-512a42c7ca3f4f54ae218ed42ee37c11?pvs=4)
+- **예제20. 특정 철자를 다른 철자로 변경하기 (REPLACE)**: 📄 [노트](https://bold-bergamot-e04.notion.site/20-REPLACE-replace-c860d481158441ec93790af5b3a701a0?pvs=4)
 
 - **예제21. 컬럼 별칭을 사용하여 출력 되는 컬럼명 변경하기**: 📄 [노트](https://www.notion.so/3-as-512a42c7ca3f4f54ae218ed42ee37c11?pvs=4)
 
