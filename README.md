@@ -56,9 +56,9 @@
 
 - **예제20. 특정 철자를 다른 철자로 변경하기 (REPLACE)**: 📄 [노트](https://bold-bergamot-e04.notion.site/20-REPLACE-replace-c860d481158441ec93790af5b3a701a0?pvs=4)
 
-- **예제21. 컬럼 별칭을 사용하여 출력 되는 컬럼명 변경하기**: 📄 [노트](https://www.notion.so/3-as-512a42c7ca3f4f54ae218ed42ee37c11?pvs=4)
+- **예제21. 특정 철자를 N개 만큼 채우기 (LPAD, RPAD)**: 📄 [노트](https://bold-bergamot-e04.notion.site/21-N-LPAD-RPAD-lpad-897b71f6909049859b3b8ac0cf76bb5f?pvs=4)
 
-- **예제22. 컬럼 별칭을 사용하여 출력 되는 컬럼명 변경하기**: 📄 [노트](https://www.notion.so/3-as-512a42c7ca3f4f54ae218ed42ee37c11?pvs=4)
+- **예제22. 특정 철자 잘라내기 (TRIM, RTRIM, LTRIM)**: 📄 [노트](https://bold-bergamot-e04.notion.site/22-TRIM-RTRIM-LTRIM-trim-rtrim-nulls-last-nu-b13c3931910c4d6cb6560ab26dc2e4f7?pvs=4) 
 
 - **예제23. 컬럼 별칭을 사용하여 출력 되는 컬럼명 변경하기**: 📄 [노트](https://www.notion.so/3-as-512a42c7ca3f4f54ae218ed42ee37c11?pvs=4)
 
