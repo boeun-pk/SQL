@@ -60,9 +60,9 @@
 
 - **예제22. 특정 철자 잘라내기 (TRIM, RTRIM, LTRIM)**: 📄 [노트](https://bold-bergamot-e04.notion.site/22-TRIM-RTRIM-LTRIM-trim-rtrim-nulls-last-nu-b13c3931910c4d6cb6560ab26dc2e4f7?pvs=4) 
 
-- **예제23. 컬럼 별칭을 사용하여 출력 되는 컬럼명 변경하기**: 📄 [노트](https://www.notion.so/3-as-512a42c7ca3f4f54ae218ed42ee37c11?pvs=4)
+- **예제23. 반올림해서 출력하기(ROUND)**: 📄 [노트](https://bold-bergamot-e04.notion.site/23-ROUND-round-633b84a86448485f9c6883b70eb2f7a9?pvs=4)
 
-- **예제24. 컬럼 별칭을 사용하여 출력 되는 컬럼명 변경하기**: 📄 [노트](https://www.notion.so/3-as-512a42c7ca3f4f54ae218ed42ee37c11?pvs=4)
+- **예제24. 숫자를 버리고 출력하기 (TRUNC)**: 📄 [노트](https://bold-bergamot-e04.notion.site/24-TRUNC-trunc-22ab798440074f63b410380bc4aff491?pvs=4)
 
 - **예제25. 컬럼 별칭을 사용하여 출력 되는 컬럼명 변경하기**: 📄 [노트](https://www.notion.so/3-as-512a42c7ca3f4f54ae218ed42ee37c11?pvs=4)
 
