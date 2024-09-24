@@ -64,7 +64,7 @@
 
 - **예제24. 숫자를 버리고 출력하기 (TRUNC)**: 📄 [노트](https://bold-bergamot-e04.notion.site/24-TRUNC-trunc-22ab798440074f63b410380bc4aff491?pvs=4)
 
-- **예제25. 컬럼 별칭을 사용하여 출력 되는 컬럼명 변경하기**: 📄 [노트](https://www.notion.so/3-as-512a42c7ca3f4f54ae218ed42ee37c11?pvs=4)
+- **예제25. 나눈 나머지 값 출력하기 (MOD)**: 📄 [노트](https://bold-bergamot-e04.notion.site/25-MOD-MOD-f014d53d38e4492db403f595a09d1464?pvs=4)
 
 - **예제26. 컬럼 별칭을 사용하여 출력 되는 컬럼명 변경하기**: 📄 [노트](https://www.notion.so/3-as-512a42c7ca3f4f54ae218ed42ee37c11?pvs=4)
 
