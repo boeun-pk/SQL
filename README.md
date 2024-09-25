@@ -66,9 +66,9 @@
 
 - **예제25. 나눈 나머지 값 출력하기 (MOD)**: 📄 [노트](https://bold-bergamot-e04.notion.site/25-MOD-MOD-f014d53d38e4492db403f595a09d1464?pvs=4)
 
-- **예제26. 컬럼 별칭을 사용하여 출력 되는 컬럼명 변경하기**: 📄 [노트](https://www.notion.so/3-as-512a42c7ca3f4f54ae218ed42ee37c11?pvs=4)
+- **예제26. 날짜 간 개월 수 출력하기 (MONTHS_BETWEEN)**: 📄 [노트](https://bold-bergamot-e04.notion.site/26-MONTHS_BETWEEN-months_between-e9eecfd76e0b49e08dbe860f1f360dca?pvs=4)
 
-- **예제27. 컬럼 별칭을 사용하여 출력 되는 컬럼명 변경하기**: 📄 [노트](https://www.notion.so/3-as-512a42c7ca3f4f54ae218ed42ee37c11?pvs=4)
+- **예제27. 개월 수 더한 날짜 출력하기 (ADD_MONTHS)**: 📄 [노트](https://bold-bergamot-e04.notion.site/27-ADD_MONTHS-add_months-interval-month-49cfac0e459146a9b12d78f42113da03?pvs=4)
 
 - **예제28. 컬럼 별칭을 사용하여 출력 되는 컬럼명 변경하기**: 📄 [노트](https://www.notion.so/3-as-512a42c7ca3f4f54ae218ed42ee37c11?pvs=4)
 
