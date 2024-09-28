@@ -72,9 +72,9 @@
 
 - **예제28. 특정 날짜 뒤에 오는 요일 날짜 출력하기 (NEXT_DAY)**: 📄 [노트](https://bold-bergamot-e04.notion.site/28-NEXT_DAY-next_day-37108280e5c2455a8e734d43571ac374?pvs=73)
 
-- **예제29. 컬럼 별칭을 사용하여 출력 되는 컬럼명 변경하기**: 📄 [노트](https://www.notion.so/3-as-512a42c7ca3f4f54ae218ed42ee37c11?pvs=4)
+- **예제29. 특정 날짜가 있는 달의 마지막 날짜 출력하기 (LAST_DAY)**: 📄 [노트](https://bold-bergamot-e04.notion.site/29-LAST_DAY-last_day-562043998ffa4fdcbaee07cfa66307c1?pvs=4)
 
-- **예제30. 컬럼 별칭을 사용하여 출력 되는 컬럼명 변경하기**: 📄 [노트](https://www.notion.so/3-as-512a42c7ca3f4f54ae218ed42ee37c11?pvs=4)
+- **예제30. 문자형으로 데이터 유형 변환하기 (TO_CHAR)**: 📄 [노트](https://bold-bergamot-e04.notion.site/30-TO_CHAR-to_char-EXTRACT-from-as--2ba378311a0b4fc1a73ef6c729cc1b74?pvs=4)
 
 - **예제31. 컬럼 별칭을 사용하여 출력 되는 컬럼명 변경하기**: 📄 [노트](https://www.notion.so/3-as-512a42c7ca3f4f54ae218ed42ee37c11?pvs=4)
 
