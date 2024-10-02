@@ -76,9 +76,9 @@
 
 - **예제30. 문자형으로 데이터 유형 변환하기 (TO_CHAR)**: 📄 [노트](https://bold-bergamot-e04.notion.site/30-TO_CHAR-to_char-EXTRACT-from-as--2ba378311a0b4fc1a73ef6c729cc1b74?pvs=4)
 
-- **예제31. 컬럼 별칭을 사용하여 출력 되는 컬럼명 변경하기**: 📄 [노트](https://www.notion.so/3-as-512a42c7ca3f4f54ae218ed42ee37c11?pvs=4)
+- **예제31. 날짜형으로 데이터 유형 변환하기 (TO_DATE)**: 📄 [노트](https://bold-bergamot-e04.notion.site/31-TO_DATE-to_date-nvl-nulls-last-e86304e1d7264092a525ab53c9aa0279?pvs=4)
 
-- **예제32. 컬럼 별칭을 사용하여 출력 되는 컬럼명 변경하기**: 📄 [노트](https://www.notion.so/3-as-512a42c7ca3f4f54ae218ed42ee37c11?pvs=4)
+- **예제32. 암시적 형 변환 이해하기**: 📄 [노트](https://bold-bergamot-e04.notion.site/32-SQL-full-table-scan-index-scan-957befb6030e4c8cbca7e957d07b118f?pvs=4)
 
 - **예제33. 컬럼 별칭을 사용하여 출력 되는 컬럼명 변경하기**: 📄 [노트](https://www.notion.so/3-as-512a42c7ca3f4f54ae218ed42ee37c11?pvs=4)
 
