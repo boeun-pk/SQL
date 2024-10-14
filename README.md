@@ -80,15 +80,15 @@
 
 - **예제32. 암시적 형 변환 이해하기**: 📄 [노트](https://bold-bergamot-e04.notion.site/32-SQL-full-table-scan-index-scan-957befb6030e4c8cbca7e957d07b118f?pvs=4)
 
-- **예제33. 컬럼 별칭을 사용하여 출력 되는 컬럼명 변경하기**: 📄 [노트](https://www.notion.so/3-as-512a42c7ca3f4f54ae218ed42ee37c11?pvs=4)
+- **예제33. NULL 값 대신 다른 데이터 출력하기 (NVL, NVL2)**: 📄 [노트](https://bold-bergamot-e04.notion.site/33-NULL-NVL-NVL2-nvl-nvl-null--880197ff290a4c5dae471e325fab0ab1?pvs=4)
 
-- **예제34. 컬럼 별칭을 사용하여 출력 되는 컬럼명 변경하기**: 📄 [노트](https://www.notion.so/3-as-512a42c7ca3f4f54ae218ed42ee37c11?pvs=4)
+- **예제34. IF문을 SQL로 구현하기 1(DECODE)**: 📄 [노트](https://bold-bergamot-e04.notion.site/34-IF-SQL-1-DECODE-decode-6313753e6e1a4101a54f3d79567fbaa9?pvs=4)
 
-- **예제35. 컬럼 별칭을 사용하여 출력 되는 컬럼명 변경하기**: 📄 [노트](https://www.notion.so/3-as-512a42c7ca3f4f54ae218ed42ee37c11?pvs=4)
+- **예제35. IF문을 SQL로 구현하기 2(CASE)**: 📄 [노트](https://bold-bergamot-e04.notion.site/35-IF-SQL-2-CASE-case-when-1-then-1-when-2-then-2-else-3-end-as-de-316dd86b70a442d490b342313708d68c?pvs=4)
 
-- **예제36. 컬럼 별칭을 사용하여 출력 되는 컬럼명 변경하기**: 📄 [노트](https://www.notion.so/3-as-512a42c7ca3f4f54ae218ed42ee37c11?pvs=4)
+- **예제36. 최대 값 출력하기 (MAX)**: 📄 [노트](https://bold-bergamot-e04.notion.site/36-MAX-group-by-106a1139accd802bb45ccd5cf6ae2bb6?pvs=4)
 
-- **예제37. 컬럼 별칭을 사용하여 출력 되는 컬럼명 변경하기**: 📄 [노트](https://www.notion.so/3-as-512a42c7ca3f4f54ae218ed42ee37c11?pvs=4)
+- **예제37. 최소 값 출력하기 (MIN)**: 📄 [노트](https://bold-bergamot-e04.notion.site/37-MIN-106a1139accd8014aa9ce246cf43cbe2?pvs=4)
 
 - **예제38. 컬럼 별칭을 사용하여 출력 되는 컬럼명 변경하기**: 📄 [노트](https://www.notion.so/3-as-512a42c7ca3f4f54ae218ed42ee37c11?pvs=4)
 
