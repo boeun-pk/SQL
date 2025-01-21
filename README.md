@@ -90,9 +90,9 @@
 
 - **예제37. 최소 값 출력하기 (MIN)**: 📄 [노트](https://bold-bergamot-e04.notion.site/37-MIN-106a1139accd8014aa9ce246cf43cbe2?pvs=4)
 
-- **예제38. 컬럼 별칭을 사용하여 출력 되는 컬럼명 변경하기**: 📄 [노트](https://www.notion.so/3-as-512a42c7ca3f4f54ae218ed42ee37c11?pvs=4)
+- **예제38. 평균 값 출력하기 (AVG)**: 📄 [노트](https://bold-bergamot-e04.notion.site/38-AVG-null-7a2ea81c83a74bcaafe35407446455a3?pvs=4)
 
-- **예제39. 컬럼 별칭을 사용하여 출력 되는 컬럼명 변경하기**: 📄 [노트](https://www.notion.so/3-as-512a42c7ca3f4f54ae218ed42ee37c11?pvs=4)
+- **예제39. 토탈 값 출력하기 (SUM)**: 📄 [노트](https://bold-bergamot-e04.notion.site/39-SUM-having-connect-by-sql-106a1139accd80688df4c54f92b0c03c?pvs=4)
 
 - **예제40. 컬럼 별칭을 사용하여 출력 되는 컬럼명 변경하기**: 📄 [노트](https://www.notion.so/3-as-512a42c7ca3f4f54ae218ed42ee37c11?pvs=4)
 
